@@ -1,0 +1,16 @@
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.exe
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.deps.json
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.runtimeconfig.json
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.runtimeconfig.dev.json
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.dll
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\ref\FunctionArray.dll
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\bin\Debug\net5.0\FunctionArray.pdb
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.csproj.AssemblyReference.cache
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.AssemblyInfoInputs.cache
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.AssemblyInfo.cs
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.csproj.CoreCompileInputs.cache
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.dll
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\ref\FunctionArray.dll
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.pdb
+C:\Users\KUNWAR\source\repos\FunctionArray\FunctionArray\obj\Debug\net5.0\FunctionArray.genruntimeconfig.cache
